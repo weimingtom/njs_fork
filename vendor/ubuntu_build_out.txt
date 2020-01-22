@@ -1,0 +1,262 @@
+gcc -c -D_GNU_SOURCE -pipe -fPIC -fvisibility=hidden -O -W -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wmissing-prototypes -Werror -g -O   \
+		-Isrc -Ibuild -Injs \
+		-o build/src/njs_diyfp.o \
+		-MMD -MF build/src/njs_diyfp.dep -MT build/src/njs_diyfp.o \
+		src/njs_diyfp.c
+gcc -c -D_GNU_SOURCE -pipe -fPIC -fvisibility=hidden -O -W -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wmissing-prototypes -Werror -g -O   \
+		-Isrc -Ibuild -Injs \
+		-o build/src/njs_dtoa.o \
+		-MMD -MF build/src/njs_dtoa.dep -MT build/src/njs_dtoa.o \
+		src/njs_dtoa.c
+gcc -c -D_GNU_SOURCE -pipe -fPIC -fvisibility=hidden -O -W -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wmissing-prototypes -Werror -g -O   \
+		-Isrc -Ibuild -Injs \
+		-o build/src/njs_dtoa_fixed.o \
+		-MMD -MF build/src/njs_dtoa_fixed.dep -MT build/src/njs_dtoa_fixed.o \
+		src/njs_dtoa_fixed.c
+gcc -c -D_GNU_SOURCE -pipe -fPIC -fvisibility=hidden -O -W -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wmissing-prototypes -Werror -g -O   \
+		-Isrc -Ibuild -Injs \
+		-o build/src/njs_strtod.o \
+		-MMD -MF build/src/njs_strtod.dep -MT build/src/njs_strtod.o \
+		src/njs_strtod.c
+gcc -c -D_GNU_SOURCE -pipe -fPIC -fvisibility=hidden -O -W -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wmissing-prototypes -Werror -g -O   \
+		-Isrc -Ibuild -Injs \
+		-o build/src/njs_murmur_hash.o \
+		-MMD -MF build/src/njs_murmur_hash.dep -MT build/src/njs_murmur_hash.o \
+		src/njs_murmur_hash.c
+gcc -c -D_GNU_SOURCE -pipe -fPIC -fvisibility=hidden -O -W -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wmissing-prototypes -Werror -g -O   \
+		-Isrc -Ibuild -Injs \
+		-o build/src/njs_djb_hash.o \
+		-MMD -MF build/src/njs_djb_hash.dep -MT build/src/njs_djb_hash.o \
+		src/njs_djb_hash.c
+gcc -c -D_GNU_SOURCE -pipe -fPIC -fvisibility=hidden -O -W -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wmissing-prototypes -Werror -g -O   \
+		-Isrc -Ibuild -Injs \
+		-o build/src/njs_utf8.o \
+		-MMD -MF build/src/njs_utf8.dep -MT build/src/njs_utf8.o \
+		src/njs_utf8.c
+gcc -c -D_GNU_SOURCE -pipe -fPIC -fvisibility=hidden -O -W -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wmissing-prototypes -Werror -g -O   \
+		-Isrc -Ibuild -Injs \
+		-o build/src/njs_arr.o \
+		-MMD -MF build/src/njs_arr.dep -MT build/src/njs_arr.o \
+		src/njs_arr.c
+gcc -c -D_GNU_SOURCE -pipe -fPIC -fvisibility=hidden -O -W -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wmissing-prototypes -Werror -g -O   \
+		-Isrc -Ibuild -Injs \
+		-o build/src/njs_rbtree.o \
+		-MMD -MF build/src/njs_rbtree.dep -MT build/src/njs_rbtree.o \
+		src/njs_rbtree.c
+gcc -c -D_GNU_SOURCE -pipe -fPIC -fvisibility=hidden -O -W -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wmissing-prototypes -Werror -g -O   \
+		-Isrc -Ibuild -Injs \
+		-o build/src/njs_lvlhsh.o \
+		-MMD -MF build/src/njs_lvlhsh.dep -MT build/src/njs_lvlhsh.o \
+		src/njs_lvlhsh.c
+gcc -c -D_GNU_SOURCE -pipe -fPIC -fvisibility=hidden -O -W -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wmissing-prototypes -Werror -g -O   \
+		-Isrc -Ibuild -Injs \
+		-o build/src/njs_trace.o \
+		-MMD -MF build/src/njs_trace.dep -MT build/src/njs_trace.o \
+		src/njs_trace.c
+gcc -c -D_GNU_SOURCE -pipe -fPIC -fvisibility=hidden -O -W -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wmissing-prototypes -Werror -g -O   \
+		-Isrc -Ibuild -Injs \
+		-o build/src/njs_random.o \
+		-MMD -MF build/src/njs_random.dep -MT build/src/njs_random.o \
+		src/njs_random.c
+gcc -c -D_GNU_SOURCE -pipe -fPIC -fvisibility=hidden -O -W -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wmissing-prototypes -Werror -g -O   \
+		-Isrc -Ibuild -Injs \
+		-o build/src/njs_md5.o \
+		-MMD -MF build/src/njs_md5.dep -MT build/src/njs_md5.o \
+		src/njs_md5.c
+gcc -c -D_GNU_SOURCE -pipe -fPIC -fvisibility=hidden -O -W -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wmissing-prototypes -Werror -g -O   \
+		-Isrc -Ibuild -Injs \
+		-o build/src/njs_sha1.o \
+		-MMD -MF build/src/njs_sha1.dep -MT build/src/njs_sha1.o \
+		src/njs_sha1.c
+gcc -c -D_GNU_SOURCE -pipe -fPIC -fvisibility=hidden -O -W -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wmissing-prototypes -Werror -g -O   \
+		-Isrc -Ibuild -Injs \
+		-o build/src/njs_sha2.o \
+		-MMD -MF build/src/njs_sha2.dep -MT build/src/njs_sha2.o \
+		src/njs_sha2.c
+gcc -c -D_GNU_SOURCE -pipe -fPIC -fvisibility=hidden -O -W -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wmissing-prototypes -Werror -g -O   \
+		-Isrc -Ibuild -Injs \
+		-o build/src/njs_pcre.o \
+		-MMD -MF build/src/njs_pcre.dep -MT build/src/njs_pcre.o \
+		src/njs_pcre.c
+gcc -c -D_GNU_SOURCE -pipe -fPIC -fvisibility=hidden -O -W -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wmissing-prototypes -Werror -g -O   \
+		-Isrc -Ibuild -Injs \
+		-o build/src/njs_time.o \
+		-MMD -MF build/src/njs_time.dep -MT build/src/njs_time.o \
+		src/njs_time.c
+gcc -c -D_GNU_SOURCE -pipe -fPIC -fvisibility=hidden -O -W -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wmissing-prototypes -Werror -g -O   \
+		-Isrc -Ibuild -Injs \
+		-o build/src/njs_file.o \
+		-MMD -MF build/src/njs_file.dep -MT build/src/njs_file.o \
+		src/njs_file.c
+gcc -c -D_GNU_SOURCE -pipe -fPIC -fvisibility=hidden -O -W -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wmissing-prototypes -Werror -g -O   \
+		-Isrc -Ibuild -Injs \
+		-o build/src/njs_malloc.o \
+		-MMD -MF build/src/njs_malloc.dep -MT build/src/njs_malloc.o \
+		src/njs_malloc.c
+gcc -c -D_GNU_SOURCE -pipe -fPIC -fvisibility=hidden -O -W -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wmissing-prototypes -Werror -g -O   \
+		-Isrc -Ibuild -Injs \
+		-o build/src/njs_mp.o \
+		-MMD -MF build/src/njs_mp.dep -MT build/src/njs_mp.o \
+		src/njs_mp.c
+gcc -c -D_GNU_SOURCE -pipe -fPIC -fvisibility=hidden -O -W -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wmissing-prototypes -Werror -g -O   \
+		-Isrc -Ibuild -Injs \
+		-o build/src/njs_sprintf.o \
+		-MMD -MF build/src/njs_sprintf.dep -MT build/src/njs_sprintf.o \
+		src/njs_sprintf.c
+gcc -c -D_GNU_SOURCE -pipe -fPIC -fvisibility=hidden -O -W -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wmissing-prototypes -Werror -g -O   \
+		-Isrc -Ibuild -Injs \
+		-o build/src/njs_value.o \
+		-MMD -MF build/src/njs_value.dep -MT build/src/njs_value.o \
+		src/njs_value.c
+gcc -c -D_GNU_SOURCE -pipe -fPIC -fvisibility=hidden -O -W -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wmissing-prototypes -Werror -g -O   \
+		-Isrc -Ibuild -Injs \
+		-o build/src/njs_vm.o \
+		-MMD -MF build/src/njs_vm.dep -MT build/src/njs_vm.o \
+		src/njs_vm.c
+gcc -c -D_GNU_SOURCE -pipe -fPIC -fvisibility=hidden -O -W -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wmissing-prototypes -Werror -g -O   \
+		-Isrc -Ibuild -Injs \
+		-o build/src/njs_vmcode.o \
+		-MMD -MF build/src/njs_vmcode.dep -MT build/src/njs_vmcode.o \
+		src/njs_vmcode.c
+gcc -c -D_GNU_SOURCE -pipe -fPIC -fvisibility=hidden -O -W -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wmissing-prototypes -Werror -g -O   \
+		-Isrc -Ibuild -Injs \
+		-o build/src/njs_boolean.o \
+		-MMD -MF build/src/njs_boolean.dep -MT build/src/njs_boolean.o \
+		src/njs_boolean.c
+gcc -c -D_GNU_SOURCE -pipe -fPIC -fvisibility=hidden -O -W -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wmissing-prototypes -Werror -g -O   \
+		-Isrc -Ibuild -Injs \
+		-o build/src/njs_number.o \
+		-MMD -MF build/src/njs_number.dep -MT build/src/njs_number.o \
+		src/njs_number.c
+gcc -c -D_GNU_SOURCE -pipe -fPIC -fvisibility=hidden -O -W -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wmissing-prototypes -Werror -g -O   \
+		-Isrc -Ibuild -Injs \
+		-o build/src/njs_string.o \
+		-MMD -MF build/src/njs_string.dep -MT build/src/njs_string.o \
+		src/njs_string.c
+gcc -c -D_GNU_SOURCE -pipe -fPIC -fvisibility=hidden -O -W -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wmissing-prototypes -Werror -g -O   \
+		-Isrc -Ibuild -Injs \
+		-o build/src/njs_object.o \
+		-MMD -MF build/src/njs_object.dep -MT build/src/njs_object.o \
+		src/njs_object.c
+gcc -c -D_GNU_SOURCE -pipe -fPIC -fvisibility=hidden -O -W -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wmissing-prototypes -Werror -g -O   \
+		-Isrc -Ibuild -Injs \
+		-o build/src/njs_object_prop.o \
+		-MMD -MF build/src/njs_object_prop.dep -MT build/src/njs_object_prop.o \
+		src/njs_object_prop.c
+gcc -c -D_GNU_SOURCE -pipe -fPIC -fvisibility=hidden -O -W -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wmissing-prototypes -Werror -g -O   \
+		-Isrc -Ibuild -Injs \
+		-o build/src/njs_array.o \
+		-MMD -MF build/src/njs_array.dep -MT build/src/njs_array.o \
+		src/njs_array.c
+gcc -c -D_GNU_SOURCE -pipe -fPIC -fvisibility=hidden -O -W -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wmissing-prototypes -Werror -g -O   \
+		-Isrc -Ibuild -Injs \
+		-o build/src/njs_json.o \
+		-MMD -MF build/src/njs_json.dep -MT build/src/njs_json.o \
+		src/njs_json.c
+gcc -c -D_GNU_SOURCE -pipe -fPIC -fvisibility=hidden -O -W -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wmissing-prototypes -Werror -g -O   \
+		-Isrc -Ibuild -Injs \
+		-o build/src/njs_function.o \
+		-MMD -MF build/src/njs_function.dep -MT build/src/njs_function.o \
+		src/njs_function.c
+gcc -c -D_GNU_SOURCE -pipe -fPIC -fvisibility=hidden -O -W -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wmissing-prototypes -Werror -g -O   \
+		-Isrc -Ibuild -Injs \
+		-o build/src/njs_regexp.o \
+		-MMD -MF build/src/njs_regexp.dep -MT build/src/njs_regexp.o \
+		src/njs_regexp.c
+gcc -c -D_GNU_SOURCE -pipe -fPIC -fvisibility=hidden -O -W -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wmissing-prototypes -Werror -g -O   \
+		-Isrc -Ibuild -Injs \
+		-o build/src/njs_date.o \
+		-MMD -MF build/src/njs_date.dep -MT build/src/njs_date.o \
+		src/njs_date.c
+gcc -c -D_GNU_SOURCE -pipe -fPIC -fvisibility=hidden -O -W -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wmissing-prototypes -Werror -g -O   \
+		-Isrc -Ibuild -Injs \
+		-o build/src/njs_error.o \
+		-MMD -MF build/src/njs_error.dep -MT build/src/njs_error.o \
+		src/njs_error.c
+gcc -c -D_GNU_SOURCE -pipe -fPIC -fvisibility=hidden -O -W -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wmissing-prototypes -Werror -g -O   \
+		-Isrc -Ibuild -Injs \
+		-o build/src/njs_math.o \
+		-MMD -MF build/src/njs_math.dep -MT build/src/njs_math.o \
+		src/njs_math.c
+gcc -c -D_GNU_SOURCE -pipe -fPIC -fvisibility=hidden -O -W -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wmissing-prototypes -Werror -g -O   \
+		-Isrc -Ibuild -Injs \
+		-o build/src/njs_timer.o \
+		-MMD -MF build/src/njs_timer.dep -MT build/src/njs_timer.o \
+		src/njs_timer.c
+gcc -c -D_GNU_SOURCE -pipe -fPIC -fvisibility=hidden -O -W -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wmissing-prototypes -Werror -g -O   \
+		-Isrc -Ibuild -Injs \
+		-o build/src/njs_module.o \
+		-MMD -MF build/src/njs_module.dep -MT build/src/njs_module.o \
+		src/njs_module.c
+gcc -c -D_GNU_SOURCE -pipe -fPIC -fvisibility=hidden -O -W -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wmissing-prototypes -Werror -g -O   \
+		-Isrc -Ibuild -Injs \
+		-o build/src/njs_event.o \
+		-MMD -MF build/src/njs_event.dep -MT build/src/njs_event.o \
+		src/njs_event.c
+gcc -c -D_GNU_SOURCE -pipe -fPIC -fvisibility=hidden -O -W -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wmissing-prototypes -Werror -g -O   \
+		-Isrc -Ibuild -Injs \
+		-o build/src/njs_fs.o \
+		-MMD -MF build/src/njs_fs.dep -MT build/src/njs_fs.o \
+		src/njs_fs.c
+gcc -c -D_GNU_SOURCE -pipe -fPIC -fvisibility=hidden -O -W -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wmissing-prototypes -Werror -g -O   \
+		-Isrc -Ibuild -Injs \
+		-o build/src/njs_crypto.o \
+		-MMD -MF build/src/njs_crypto.dep -MT build/src/njs_crypto.o \
+		src/njs_crypto.c
+gcc -c -D_GNU_SOURCE -pipe -fPIC -fvisibility=hidden -O -W -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wmissing-prototypes -Werror -g -O   \
+		-Isrc -Ibuild -Injs \
+		-o build/src/njs_extern.o \
+		-MMD -MF build/src/njs_extern.dep -MT build/src/njs_extern.o \
+		src/njs_extern.c
+gcc -c -D_GNU_SOURCE -pipe -fPIC -fvisibility=hidden -O -W -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wmissing-prototypes -Werror -g -O   \
+		-Isrc -Ibuild -Injs \
+		-o build/src/njs_variable.o \
+		-MMD -MF build/src/njs_variable.dep -MT build/src/njs_variable.o \
+		src/njs_variable.c
+gcc -c -D_GNU_SOURCE -pipe -fPIC -fvisibility=hidden -O -W -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wmissing-prototypes -Werror -g -O   \
+		-Isrc -Ibuild -Injs \
+		-o build/src/njs_builtin.o \
+		-MMD -MF build/src/njs_builtin.dep -MT build/src/njs_builtin.o \
+		src/njs_builtin.c
+gcc -c -D_GNU_SOURCE -pipe -fPIC -fvisibility=hidden -O -W -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wmissing-prototypes -Werror -g -O   \
+		-Isrc -Ibuild -Injs \
+		-o build/src/njs_lexer.o \
+		-MMD -MF build/src/njs_lexer.dep -MT build/src/njs_lexer.o \
+		src/njs_lexer.c
+gcc -c -D_GNU_SOURCE -pipe -fPIC -fvisibility=hidden -O -W -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wmissing-prototypes -Werror -g -O   \
+		-Isrc -Ibuild -Injs \
+		-o build/src/njs_lexer_keyword.o \
+		-MMD -MF build/src/njs_lexer_keyword.dep -MT build/src/njs_lexer_keyword.o \
+		src/njs_lexer_keyword.c
+gcc -c -D_GNU_SOURCE -pipe -fPIC -fvisibility=hidden -O -W -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wmissing-prototypes -Werror -g -O   \
+		-Isrc -Ibuild -Injs \
+		-o build/src/njs_parser.o \
+		-MMD -MF build/src/njs_parser.dep -MT build/src/njs_parser.o \
+		src/njs_parser.c
+gcc -c -D_GNU_SOURCE -pipe -fPIC -fvisibility=hidden -O -W -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wmissing-prototypes -Werror -g -O   \
+		-Isrc -Ibuild -Injs \
+		-o build/src/njs_parser_terminal.o \
+		-MMD -MF build/src/njs_parser_terminal.dep -MT build/src/njs_parser_terminal.o \
+		src/njs_parser_terminal.c
+gcc -c -D_GNU_SOURCE -pipe -fPIC -fvisibility=hidden -O -W -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wmissing-prototypes -Werror -g -O   \
+		-Isrc -Ibuild -Injs \
+		-o build/src/njs_parser_expression.o \
+		-MMD -MF build/src/njs_parser_expression.dep -MT build/src/njs_parser_expression.o \
+		src/njs_parser_expression.c
+gcc -c -D_GNU_SOURCE -pipe -fPIC -fvisibility=hidden -O -W -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wmissing-prototypes -Werror -g -O   \
+		-Isrc -Ibuild -Injs \
+		-o build/src/njs_generator.o \
+		-MMD -MF build/src/njs_generator.dep -MT build/src/njs_generator.o \
+		src/njs_generator.c
+gcc -c -D_GNU_SOURCE -pipe -fPIC -fvisibility=hidden -O -W -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wmissing-prototypes -Werror -g -O   \
+		-Isrc -Ibuild -Injs \
+		-o build/src/njs_disassembler.o \
+		-MMD -MF build/src/njs_disassembler.dep -MT build/src/njs_disassembler.o \
+		src/njs_disassembler.c
+ar -r -c build/libnjs.a \
+		build/src/njs_diyfp.o build/src/njs_dtoa.o build/src/njs_dtoa_fixed.o build/src/njs_strtod.o build/src/njs_murmur_hash.o build/src/njs_djb_hash.o build/src/njs_utf8.o build/src/njs_arr.o build/src/njs_rbtree.o build/src/njs_lvlhsh.o build/src/njs_trace.o build/src/njs_random.o build/src/njs_md5.o build/src/njs_sha1.o build/src/njs_sha2.o build/src/njs_pcre.o build/src/njs_time.o build/src/njs_file.o build/src/njs_malloc.o build/src/njs_mp.o build/src/njs_sprintf.o build/src/njs_value.o build/src/njs_vm.o build/src/njs_vmcode.o build/src/njs_boolean.o build/src/njs_number.o build/src/njs_string.o build/src/njs_object.o build/src/njs_object_prop.o build/src/njs_array.o build/src/njs_json.o build/src/njs_function.o build/src/njs_regexp.o build/src/njs_date.o build/src/njs_error.o build/src/njs_math.o build/src/njs_timer.o build/src/njs_module.o build/src/njs_event.o build/src/njs_fs.o build/src/njs_crypto.o build/src/njs_extern.o build/src/njs_variable.o build/src/njs_builtin.o build/src/njs_lexer.o build/src/njs_lexer_keyword.o build/src/njs_parser.o build/src/njs_parser_terminal.o build/src/njs_parser_expression.o build/src/njs_generator.o build/src/njs_disassembler.o 
+gcc -O -o build/njs -D_GNU_SOURCE -pipe -fPIC -fvisibility=hidden -O -W -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wmissing-prototypes -Werror -g -O  \
+		 -Isrc -Ibuild -Injs \
+		src/njs_shell.c \
+		build/libnjs.a \
+		-lm  -lpcre -lreadline

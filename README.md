@@ -10,6 +10,8 @@ My fork of njs-0.3.7, with vs2013
 TODO: C++    
 * https://github.com/weimingtom/rhinomod  
 TODO: Java    
+* https://github.com/weimingtom/spidermonkeymod  
+TODO: C++  
 * https://gitee.com/weimingtom/tjs2study  
 * https://github.com/jeeb/kirikiri2/tree/master/kirikiri2/src/core/tjs2  
 * http://ftp.mozilla.org/pub/js/  

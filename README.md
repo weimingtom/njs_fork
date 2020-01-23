@@ -16,3 +16,4 @@ TODO: Java
 * search SpiderMonkey  
 * https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey  
 * search mozjs  
+* https://github.com/weimingtom/eriri_js  

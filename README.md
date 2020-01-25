@@ -22,3 +22,4 @@ TODO: C++
 * https://hg.mozilla.org/mozilla-central/file/  
 * https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Releases/1.8.5  
 * https://github.com/nxmirrors/tamarin-central  
+* https://github.com/Distrotech/mozjs/tree/mozjs-24/js  

@@ -6,6 +6,8 @@ My fork of njs-0.3.7, with vs2013
 * Some code changed, see readme.txt, see njs_argument macro define.  
 
 ## Other javascript implements study  
+* https://github.com/weimingtom/MinijoeCSharp  
+TODO: C#  
 * https://github.com/weimingtom/tjs2mod  
 TODO: C++    
 * https://github.com/weimingtom/rhinomod  

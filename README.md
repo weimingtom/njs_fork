@@ -27,3 +27,13 @@ TODO: C++
 * https://github.com/Distrotech/mozjs/tree/mozjs-24/js  
 * ChakraCore  
 * https://github.com/microsoft/ChakraCore  
+* duktape  
+* https://duktape.org  
+* https://github.com/espruino/Espruino  
+* http://jerryscript.net/  
+* http://mujs.com/  
+* https://code.google.com/p/quad-wheel/  
+* https://bellard.org/quickjs/  
+* https://github.com/gfwilliams/tiny-js  
+* https://github.com/cesanta/v7  
+* https://en.wikipedia.org/wiki/List_of_ECMAScript_engines  

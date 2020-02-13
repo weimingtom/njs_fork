@@ -25,3 +25,5 @@ TODO: C++
 * https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Releases/1.8.5  
 * https://github.com/nxmirrors/tamarin-central  
 * https://github.com/Distrotech/mozjs/tree/mozjs-24/js  
+* ChakraCore  
+* https://github.com/microsoft/ChakraCore  

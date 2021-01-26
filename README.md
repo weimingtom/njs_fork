@@ -6,6 +6,8 @@ My fork of njs-0.3.7, with vs2013
 * Some code changed, see readme.txt, see njs_argument macro define.  
 
 ## Other javascript implements study  
+* (TODO) mjs  
+https://github.com/cesanta/mjs  
 * picoc  
 see https://github.com/weimingtom/wmt_incubator  
 (baidupan) picoc_vc6_v1.rar  

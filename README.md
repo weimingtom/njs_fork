@@ -8,7 +8,7 @@ My fork of njs-0.3.7, with vs2013
 ## Other javascript implements study  
 * (TODO) Pocketlang  
 https://github.com/ThakeeNathees/pocketlang  
-
+search baidupan, pocketlang_v2_vc6_success.rar  
 * (TODO) mjs  
 https://github.com/cesanta/mjs  
 * picoc  

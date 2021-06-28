@@ -8,9 +8,12 @@ My fork of njs-0.3.7, with vs2013
 ## Other javascript implements study  
 * Pocketlang  
 https://github.com/weimingtom/pocketlang  
-search baidupan, pocketlang_v2_vc6_success.rar  
-* (TODO) mjs  
+(baidupan) pocketlang_v2_vc6_success.rar  
+* mjs  
 https://github.com/cesanta/mjs  
+(baidupan) mjs-1.26.zip  
+put mjs.c and mjs.h to vc6 project, and define MJS_MAIN  
+run: mjs.exe -e "print('hello')"  
 * picoc  
 see https://github.com/weimingtom/wmt_incubator  
 (baidupan) picoc_vc6_v1.rar  

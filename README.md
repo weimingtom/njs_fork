@@ -61,3 +61,11 @@ TODO: C++
 
 ## etc script engine    
 * search baidupan, gravity-0.7.8_vs2013_build_success.rar  
+
+## etc  
+* https://github.com/rui314/chibicc  
+* https://github.com/drh/lcc  
+* https://github.com/rswier/c4  
+* https://github.com/coliveira/c4  
+* https://github.com/EarlGray/c4  
+* https://github.com/v8/v8  

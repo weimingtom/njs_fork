@@ -6,6 +6,17 @@ My fork of njs-0.3.7, with vs2013
 * Some code changed, see readme.txt, see njs_argument macro define.  
 
 ## Other javascript implements study  
+* angelscript  
+https://www.angelcode.com/angelscript/  
+* BulletML  
+http://www.asahi-net.or.jp/~cs8k-cyu/bulletml/  
+http://shinh.skr.jp/sdmkun/  
+* nScript  
+http://www.nakka.com/soft/ns/  
+* trayc  
+http://www.nakka.com/soft/trayc/  
+* C Scripting Language(CSL)  
+http://sourceforge.net/projects/csl/  
 * beanshell  
 https://github.com/beanshell/beanshell  
 https://beanshell.github.io  

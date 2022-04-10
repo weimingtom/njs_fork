@@ -6,6 +6,9 @@ My fork of njs-0.3.7, with vs2013
 * Some code changed, see readme.txt, see njs_argument macro define.  
 
 ## Other javascript implements study  
+* beanshell  
+https://github.com/beanshell/beanshell  
+https://beanshell.github.io  
 * Open Basic interpreter for embedding  
 https://sourceforge.net/projects/obasic/  
 http://obasic.sourceforge.net  

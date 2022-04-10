@@ -6,6 +6,8 @@ My fork of njs-0.3.7, with vs2013
 * Some code changed, see readme.txt, see njs_argument macro define.  
 
 ## Other javascript implements study  
+* criscript  
+https://github.com/hak/criscript  
 * cint  
 (dead) http://root.cern.ch/drupal/content/cint  
 https://github.com/paulwratt/cint-5.34.00  

@@ -13,7 +13,7 @@ http://www.asahi-net.or.jp/~cs8k-cyu/bulletml/
 http://shinh.skr.jp/sdmkun/  
 * nScript  
 http://www.nakka.com/soft/ns/  
-* trayc  
+trayc  
 http://www.nakka.com/soft/trayc/  
 * C Scripting Language(CSL)  
 http://sourceforge.net/projects/csl/  

@@ -6,6 +6,7 @@ My fork of njs-0.3.7, with vs2013
 * Some code changed, see readme.txt, see njs_argument macro define.  
 
 ## Other javascript implements study  
+* https://github.com/wren-lang/wren  
 * (TODO) low.js  
 http://www.lowjs.org/  
 https://www.neonious-iot.com/lowjs/examples/getting-started.html  

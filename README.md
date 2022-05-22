@@ -6,6 +6,8 @@ My fork of njs-0.3.7, with vs2013
 * Some code changed, see readme.txt, see njs_argument macro define.  
 
 ## Other javascript implements study  
+* jakt  
+https://github.com/SerenityOS/jakt  
 * angelscript  
 https://www.angelcode.com/angelscript/  
 * BulletML  

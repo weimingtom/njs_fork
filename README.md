@@ -6,6 +6,13 @@ My fork of njs-0.3.7, with vs2013
 * Some code changed, see readme.txt, see njs_argument macro define.  
 
 ## Other javascript implements study  
+* gambas, gambas3    
+http://gambas.sourceforge.net/en/main.html  
+在xubuntu 20上运行gambas3开发控制台程序（类BASIC，支持图形界面开发），如图。  
+树莓派可能有问题（未测试）。  
+安装方法：sudo apt install gambas3 gambas3-gb-form-print。  
+启动开发环境：gambas3。  
+控制台编译和运行：gba3 && ./test1.gambas  
 * 8cc  
 https://github.com/rui314/8cc  
 https://github.com/keiichiw/constexpr-8cc  

@@ -8,9 +8,9 @@ My fork of njs-0.3.7, with vs2013
 ## Other javascript implements study  
 * 8cc  
 https://github.com/rui314/8cc  
-https://github.com/kw-udon/constexpr-8cc  
+https://github.com/keiichiw/constexpr-8cc  
 * gcc-explorer  
-https://github.com/mattgodbolt/gcc-explorer  
+https://github.com/compiler-explorer/compiler-explorer  
 * jakt  
 https://github.com/SerenityOS/jakt  
 * angelscript  

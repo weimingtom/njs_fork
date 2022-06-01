@@ -6,6 +6,11 @@ My fork of njs-0.3.7, with vs2013
 * Some code changed, see readme.txt, see njs_argument macro define.  
 
 ## Other javascript implements study  
+* 8cc  
+https://github.com/rui314/8cc  
+https://github.com/kw-udon/constexpr-8cc  
+* gcc-explorer  
+https://github.com/mattgodbolt/gcc-explorer  
 * jakt  
 https://github.com/SerenityOS/jakt  
 * angelscript  

@@ -5,7 +5,10 @@ My fork of njs-0.3.7, with vs2013
 * Running 'console.log("hello");' success.    
 * Some code changed, see readme.txt, see njs_argument macro define.  
 
-## Other javascript implements study  
+## Other javascript / typescript implements study  
+* PuerTS  
+https://github.com/Tencent/puerts
+https://github.com/chexiongsheng/puerts_unity_demo  
 * aardio  
 https://www.aardio.com  
 * gambas, gambas3    

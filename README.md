@@ -7,8 +7,8 @@ My fork of njs-0.3.7, with vs2013
 
 ## Other javascript / typescript implements study  
 * PuerTS  
-https://github.com/Tencent/puerts
-https://github.com/chexiongsheng/puerts_unity_demo  
+https://github.com/Tencent/puerts  
+https://github.com/chexiongsheng/puerts_unity_demo   
 * aardio  
 https://www.aardio.com  
 * gambas, gambas3    

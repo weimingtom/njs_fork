@@ -128,7 +128,8 @@ TODO: C++
 * https://github.com/v8/v8  
 * https://github.com/lotabout/write-a-C-interpreter  
 
-## TODO, IDE???  
-* https://github.com/mozilla/rhino/blob/master/toolsrc/org/mozilla/javascript/tools/shell/JSConsole.java   
+## (TODO) Rhino IDE, JSConsole    
+* https://github.com/mozilla/rhino/blob/master/toolsrc/org/mozilla/javascript/tools/shell/JSConsole.java    
 * https://github.com/weimingtom/Rhino.Net/tree/develop/src/Rhino.Tools.Debugger  
 * https://github.com/hazzik/Rhino.Net  
+* https://github.com/weimingtom/rhinomod/blob/master/rhinomod/src/org/mozilla/rhino/examples/Shell.java  

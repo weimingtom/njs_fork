@@ -127,3 +127,8 @@ TODO: C++
 * https://github.com/EarlGray/c4  
 * https://github.com/v8/v8  
 * https://github.com/lotabout/write-a-C-interpreter  
+
+## TODO, IDE???  
+* https://github.com/mozilla/rhino/blob/master/toolsrc/org/mozilla/javascript/tools/shell/JSConsole.java   
+* https://github.com/weimingtom/Rhino.Net/tree/develop/src/Rhino.Tools.Debugger  
+* https://github.com/hazzik/Rhino.Net  

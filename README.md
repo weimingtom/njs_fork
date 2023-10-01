@@ -6,6 +6,13 @@ My fork of njs-0.3.7, with vs2013
 * Some code changed, see readme.txt, see njs_argument macro define.  
 
 ## Other javascript / typescript implements study  
+* Lox (clox, jlox)      
+http://www.craftinginterpreters.com/the-lox-language.html
+https://github.com/munificent/craftinginterpreters  
+https://github.com/munificent/craftinginterpreters/wiki/Lox-implementations  
+https://github.com/ByronMayne/LoxSharp
+https://github.com/munificent/craftinginterpreters/blob/master/c/main.c  
+https://github.com/munificent/craftinginterpreters/blob/master/java/com/craftinginterpreters/lox/Lox.java  
 * PuerTS  
 https://github.com/Tencent/puerts  
 https://github.com/chexiongsheng/puerts_unity_demo   

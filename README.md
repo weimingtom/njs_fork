@@ -6,7 +6,7 @@ My fork of njs-0.3.7, with vs2013
 * Some code changed, see readme.txt, see njs_argument macro define.  
 
 ## Other javascript / typescript implements study  
-* TorqueScript, Torque
+* TorqueScript, Torque  
 http://wiki.torque3d.org/scripter:the-torquescript-language  
 https://torque3d.org/torque3d/  
 https://github.com/GarageGames/Torque3D  

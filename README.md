@@ -10,7 +10,14 @@ My fork of njs-0.3.7, with vs2013
 http://wiki.torque3d.org/scripter:the-torquescript-language  
 https://torque3d.org/torque3d/  
 https://github.com/GarageGames/Torque3D  
-https://github.com/TorqueGameEngines/Torque3D  
+https://github.com/TorqueGameEngines/Torque3D
+```
+我以前看到这本书，以为真的可以运行csharp，不过现在发现这本书里面提到的cs后缀脚本
+其实是torque引擎自带的控制台脚本，
+跟csharp没有任何关系。顺便一提torque早就已经开源了 //
+【脚本级网络游戏编程_百度百科】《脚本级网络游戏编程》
+是2009年12月清华大学出版社出版的图书，
+```
 * Lox (clox, jlox)      
 http://www.craftinginterpreters.com/the-lox-language.html  
 https://github.com/munificent/craftinginterpreters   

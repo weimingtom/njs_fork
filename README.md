@@ -10,7 +10,10 @@ My fork of njs-0.3.7, with vs2013
 http://wiki.torque3d.org/scripter:the-torquescript-language  
 https://torque3d.org/torque3d/  
 https://github.com/GarageGames/Torque3D  
-https://github.com/TorqueGameEngines/Torque3D
+https://github.com/TorqueGameEngines/Torque3D  
+https://github.com/GarageGames/Torque3D/blob/master/Engine/source/console/bison.simple  
+https://github.com/GarageGames/Torque3D/blob/master/Engine/source/console/compiler.h  
+https://github.com/GarageGames/Torque3D/blob/master/Engine/source/console/ast.h  
 ```
 我以前看到这本书，以为真的可以运行csharp，不过现在发现这本书里面提到的cs后缀脚本
 其实是torque引擎自带的控制台脚本，

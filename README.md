@@ -73,13 +73,22 @@ https://sourceforge.net/projects/obasic/
 http://obasic.sourceforge.net  
 * jsdb  
 http://www.jsdb.org  
+jsdb_source_1.8.0.0.zip
+jsdb_source_1.8.0.3.zip
+jsdb_win_1.8.0.0.zip
+jsdb_win_1.8.0.3.zip  
 * Digital Mars DMDScript, dscript  
 https://github.com/DigitalMars/DMDScript  
+dscript.zip
+dscriptcppsrc.zip  
 * criscript  
 https://github.com/hak/criscript  
+criscript.com.rar  
 * cint  
 (dead) http://root.cern.ch/drupal/content/cint  
-https://github.com/paulwratt/cint-5.34.00  
+https://github.com/paulwratt/cint-5.34.00
+cint-5.16.19-win32.tar.gz  
+cint-5.18.00.tgz  
 * jint  
 https://github.com/sebastienros/jint  
 * wren  

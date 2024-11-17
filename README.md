@@ -6,6 +6,8 @@ My fork of njs-0.3.7, with vs2013
 * Some code changed, see readme.txt, see njs_argument macro define.  
 
 ## Other javascript / typescript implements study  
+* angelscript_2.20.1.zip
+* csl-4.3.0.tar.gz  
 * js  
 http://wxjs.sourceforge.net/  
 http://k3d.sourceforge.net/new  

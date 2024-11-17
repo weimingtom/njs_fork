@@ -6,6 +6,8 @@ My fork of njs-0.3.7, with vs2013
 * Some code changed, see readme.txt, see njs_argument macro define.  
 
 ## Other javascript / typescript implements study  
+* v8  
+v8-20101013.rar  
 * angelscript_2.20.1.zip
 * csl-4.3.0.tar.gz  
 * js  
@@ -123,6 +125,8 @@ TODO: C++
 TODO: Java    
 * https://github.com/weimingtom/spidermonkeymod  
 TODO: C++  
+SpiderMonkey__.rar
+js-1.8.0-rc1.tar.gz  
 * https://gitee.com/weimingtom/tjs2study  
 * https://github.com/jeeb/kirikiri2/tree/master/kirikiri2/src/core/tjs2  
 * http://ftp.mozilla.org/pub/js/  
@@ -133,6 +137,9 @@ TODO: C++
 * https://hg.mozilla.org/mozilla-central/file/  
 * https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Releases/1.8.5  
 * https://github.com/nxmirrors/tamarin-central  
+tamarin__.rar
+tamarin-central.tar.bz2
+tamarin-central-fbecf6c8a86f-patch.rar  
 * https://github.com/Distrotech/mozjs/tree/mozjs-24/js  
 * ChakraCore  
 * https://github.com/microsoft/ChakraCore  

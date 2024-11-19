@@ -8,11 +8,9 @@ My fork of njs-0.3.7, with vs2013
 ## Other javascript / typescript implements study  
 * v8  
 v8-20101013.rar  
-* angelscript_2.20.1.zip
-* csl-4.3.0.tar.gz  
 * js  
 http://wxjs.sourceforge.net/  
-http://k3d.sourceforge.net/new  
+http://k3d.sourceforge.net/  
 http://gluescript.sourceforge.net/  
 * TorqueScript, Torque  
 http://wiki.torque3d.org/scripter:the-torquescript-language  
@@ -60,6 +58,7 @@ https://godbolt.org
 https://github.com/SerenityOS/jakt  
 * angelscript  
 https://www.angelcode.com/angelscript/  
+angelscript_2.20.1.zip  
 * BulletML  
 http://www.asahi-net.or.jp/~cs8k-cyu/bulletml/  
 http://shinh.skr.jp/sdmkun/  
@@ -69,6 +68,7 @@ trayc
 http://www.nakka.com/soft/trayc/  
 * C Scripting Language(CSL)  
 http://sourceforge.net/projects/csl/  
+csl-4.3.0.tar.gz  
 * beanshell  
 https://github.com/beanshell/beanshell  
 https://beanshell.github.io  
@@ -164,7 +164,7 @@ tamarin-central-fbecf6c8a86f-patch.rar
 * https://github.com/rswier/c4  
 * https://github.com/coliveira/c4  
 * https://github.com/EarlGray/c4  
-* https://github.com/v8/v8  
+* https://github.com//  
 * https://github.com/lotabout/write-a-C-interpreter  
 
 ## (TODO) Rhino IDE, JSConsole    

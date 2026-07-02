@@ -6,6 +6,12 @@ My fork of njs-0.3.7, with vs2013
 * Some code changed, see readme.txt, see njs_argument macro define.  
 
 ## Other javascript / typescript implements study  
+* http://www.jsdb.org/  
+* https://github.com/ericwlange/AndroidJSCore    
+* https://github.com/cesanta/mjs  
+* https://github.com/tessel/t1-runtime  
+* js引擎能做到多小？  
+https://www.zhihu.com/question/53612496  
 * v8  
 v8-20101013.rar  
 * js  
